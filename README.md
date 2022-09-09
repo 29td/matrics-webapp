@@ -4,6 +4,13 @@ Pollution Metrics
 
 > A application will allow users to check air quality and weather information of all cities in the USA.
 
+# Project Screenshots
+
+![Screenshot (69)](https://user-images.githubusercontent.com/93027816/189324891-0339952c-15ca-4311-b721-ccd0a1c5addf.png)
+
+
+![Screenshot (68)](https://user-images.githubusercontent.com/93027816/189325062-af875d5f-e10e-4d80-b945-7dca99c75db5.png)
+
 ## Built With
 
 - React
