@@ -1,0 +1,13 @@
+.btn-container {
+  display: flex;
+  padding: 0.8rem;
+  justify-content: flex-end;
+}
+
+.btn {
+  background-color: $color-primary-light;
+  padding: 0.4rem 1.6rem;
+  color: $color-white;
+  font-size: 1.8rem;
+  border-radius: 4px;
+}

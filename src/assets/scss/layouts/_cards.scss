@@ -1,0 +1,29 @@
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  @media (min-width: 48em) {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+
+  &__item {
+    background-color: $color-primary;
+    border-bottom: 1px solid $color-light-gray;
+
+    &:nth-child(even) {
+      background-color: $color-primary-dark;
+    }
+  }
+
+  &__link {
+    &:link,
+    &:visited {
+      display: block;
+      padding: 4rem;
+      text-decoration: none;
+      text-transform: uppercase;
+      color: $color-white;
+      font-size: 1.4rem;
+    }
+  }
+}
