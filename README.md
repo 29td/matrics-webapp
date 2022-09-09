@@ -18,10 +18,6 @@ Pollution Metrics
 - SCSS
 - [IQAir API](https://api-docs.iqair.com/)
 
-## Live Demo
-
-A live version of the website can be seen [here](https://matrics-webapp.netlify.app/)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
