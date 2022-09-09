@@ -1,8 +1,8 @@
 # Project Name
 
-Pollution Metrics USA
+Pollution Metrics
 
-> A web application for a company that provides commercial and scientific air pollution data. The application will allow users to check air quality and weather information of all cities in the USA.
+> A application will allow users to check air quality and weather information of all cities in the USA.
 
 ## Built With
 
@@ -13,7 +13,7 @@ Pollution Metrics USA
 
 ## Live Demo
 
-A live version of the website can be seen [here](https://pollution-metrics.netlify.app/)
+A live version of the website can be seen [here](https://matrics-webapp.netlify.app/)
 
 ## Getting Started
 
@@ -21,9 +21,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Using it Locally
 
-- Clone the project from GitHub `git@github.com:amejid/pollution-metrics.git`
+- Clone the project from GitHub `git@github.com:29td/matrics-webapp.git`
 - Run the following commands as listed in your terminal:
-- `npm install`
+- `npm i`
 - `npm start`
 
 ## Available Scripts
@@ -43,19 +43,19 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Authors
+## Author
 
-👤 **Abdelmejid Oumer Ali**
+👤 **Reginah Nonhlanhla**
 
-- GitHub: [@amejid](https://github.com/amejid)
-- Twitter: [@amejidoumer](https://twitter.com/amejidoumer)
-- LinkedIn: [amejid](https://linkedin.com/in/amejid)
+- GitHub: [@Nonhlanhla](https://https://github.com/29td)
+- Twitter: [@NonhlanhlaMnde6](https://twitter.com/NonhlanhlaMnde6)
+- LinkedIn: [@Nonhlanhla-Mndebele](https://www.linkedin.com/in/Nonhlanhla-Mndebele/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/29td/matrics-webapp/issues).
 
 ## Show your support
 
@@ -63,7 +63,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Original [design](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>) idea by [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) on Behance.
+- This [design](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>) was enspired by [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) on Behance.
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
