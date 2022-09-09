@@ -37,9 +37,6 @@ const City = () => {
   }, [dispatch, city, stateName]);
 
   const location = `${metrics.city}, ${metrics.state}, ${metrics.country}`;
-  const weatherIcon = metrics.current.weather.ic
-    ? `https://www.airvisual.com/images/${metrics.current.weather.ic}.png`
-    : '';
   const temperature = `${metrics.current.weather.tp}°C`;
   const humidity = `${metrics.current.weather.hu}%`;
   const pressure = `${metrics.current.weather.pr}mb`;
@@ -59,7 +56,6 @@ const City = () => {
       </div>
       <div className="weather">
         <p className="weather__location">{location}</p>
-        <img className="weather__icon" src={weatherIcon} alt="Weather Icon" />
       </div>
 
       <ul className="w-metrics">

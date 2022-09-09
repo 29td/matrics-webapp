@@ -1,6 +1,6 @@
 const Navbar = () => (
   <header className="header">
-    <p className="header__title">Pollution Metrics USA</p>
+    <p className="header__title">Pollution Metrics</p>
   </header>
 );
 
