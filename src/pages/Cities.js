@@ -14,7 +14,7 @@ const Cities = () => {
   }, [dispatch, stateName]);
 
   return (
-    <>
+    <div>
       <div className="btn-container">
         <button className="btn" type="button" onClick={() => navigate(-1)}>
           Back
@@ -29,7 +29,7 @@ const Cities = () => {
           </li>
         ))}
       </ul>
-    </>
+    </div>
   );
 };
 

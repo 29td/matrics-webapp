@@ -8,7 +8,7 @@ const translateAQI = (aqi) => {
   if (aqi >= 0 && aqi <= 50) {
     obj = { msg: 'Good', style: 'green' };
   } else if (aqi >= 51 && aqi <= 100) {
-    obj = { msg: 'Moderate', style: 'yellow' };
+    obj = { msg: 'Moderate', style: 'blue' };
   } else if (aqi >= 101 && aqi <= 150) {
     obj = { msg: 'Unhealthy for Sensitive Groups', style: 'orange' };
   } else if (aqi >= 151 && aqi <= 200) {
