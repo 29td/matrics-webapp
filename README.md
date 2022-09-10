@@ -18,6 +18,12 @@ Pollution Metrics
 - SCSS
 - [IQAir API](https://api-docs.iqair.com/)
 
+### Live Demo link
+
+
+### Loom video link
+https://loom.com/share/be2750fe994341ffb3ceb677b6a0c62f
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
